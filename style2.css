@@ -1,0 +1,23 @@
+/* .boxes div
+{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    border: 1px solid black;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+
+} */
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    border: 1px solid black;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+
+}

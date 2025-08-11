@@ -1,0 +1,27 @@
+/* .para{
+    color: black;
+}
+.newpara{
+    background-color: rgb(31, 13, 13);
+} */
+
+
+div
+{
+    height: 100px;
+    width: 100px;
+    background-color: violet;
+    border: 1px solid black;
+    margin: 5px;
+    align-items: center;
+    text-align: center;
+
+} 
+.dark{
+    color: white;
+    background-color: black;
+}
+.light{
+    color: black;
+    background-color: white;
+}
